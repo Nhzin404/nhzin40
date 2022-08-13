@@ -1,4 +1,4 @@
-# ctrl+c ctrl+v
+# :)
 
 <div align="center">
   <a href="https://github.com/nhzin404">
